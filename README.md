@@ -1,2 +1,3 @@
 # jenkins-demo
-Demo setup for jenkins v1
+Demo setup for jenkins v2
+
